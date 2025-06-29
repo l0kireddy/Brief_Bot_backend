@@ -1,5 +1,0 @@
-flask
-flask-cors
-moviepy
-openai-whisper
-ibm-watsonx-ai
